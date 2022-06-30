@@ -1,22 +1,14 @@
 {
-  "name": "docu-track",
+  "name": "SmartDoc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Docu-Track/Docu-track.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Docu-Track/Docu-track/issues"
-  },
-  "homepage": "https://github.com/Docu-Track/Docu-track#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
